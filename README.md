@@ -43,3 +43,10 @@ My focus is on creating solutions that simplify reporting and accelerate decisio
 ---
 
 💬 *"Turning complex data into simple, visual insights."*
+
+![Power BI](https://img.shields.io/badge/Power%20BI-FAE100?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0078D4?style=for-the-badge&logo=databricks&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=zapier&logoColor=white)
+
